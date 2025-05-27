@@ -5,8 +5,8 @@ function Card(){
     return(
         <div className = "card">
         <img src = {billardspic} alt = "Billards Pic"></img>
-        <h2>Billards Ranked</h2>
-        <p> CCNY Billards Competetive Queue </p>
+        <h2 className= "card-title">Billards Ranked</h2>
+        <p className="card-text"> CCNY Billards Competetive Queue </p>
     </div>
     );
 }

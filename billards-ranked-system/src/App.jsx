@@ -5,9 +5,10 @@ import Card from "./Card.jsx"
 function App() {
   return(
     <>
+    <Card></Card>
     <Header></Header>
     <Footer></Footer>
-    <Card></Card>
+    
     </>
     
   )
