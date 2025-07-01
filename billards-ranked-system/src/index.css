@@ -28,3 +28,24 @@
   font-family: Arial, sans-serif;
   color: hsl(300, 83%, 31%);
 }
+
+.button{
+  background-color:rgb(247, 247, 77);
+  color:black;
+  padding: 10px 20px;
+  border-radius: outset;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.button{
+  transition-duration: .5;
+
+}
+
+.button:hover{
+  background-color:rgb(255, 255, 0) ;
+  color: black;
+
+}
